@@ -1,6 +1,8 @@
 # Speech Emotion Recognition on Italian, German and English via Convolutional Autoencoder
 Speech Emotion Recognition task on different languages via Stacked Convolutional Autoencoder and other models, with and without feature extraction, on open speech-emotion data sets.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lU7mCWV8bwIkSoNibnEwsE2I0anRhksO?usp=sharing)
+
 Broad and explorative approach to a relevant task of audio pattern recognition, using a machine learning approach.
 
 ![](https://github.com/aliswh/ser_ae/blob/main/cm.png?raw=true)
