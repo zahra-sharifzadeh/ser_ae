@@ -1,7 +1,9 @@
 # Speech Emotion Recognition on Italian, German and English via Convolutional Autoencoder
-Speech Emotion Recognition task on different languages via Convolutional Autoencoder and other models, with and without feature extraction, on open speech-emotion data sets.
+Speech Emotion Recognition task on different languages via Stacked Convolutional Autoencoder and other models, with and without feature extraction, on open speech-emotion data sets.
 
 Broad and explorative approach to a relevant task of audio pattern recognition, using a machine learning approach.
+
+![](https://github.com/aliswh/ser_ae/blob/main/cm.png?raw=true)
 
 > Project developed for course of "Audio Pattern Recognition" at Università degli Studi Statale di Milano, held by Professor Stavros Ntalampiras.
 
